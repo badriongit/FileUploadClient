@@ -1,0 +1,12 @@
+[
+ {
+   "entityType" : "CUSTOMER" ,
+   "entityId" : "CUS1",
+   "path" : "path1"
+ },
+{
+   "entityType" : "USER" ,
+   "entityId" : "USER1",
+   "path" : "path2"
+ }
+]

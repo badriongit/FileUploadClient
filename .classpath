@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/badrionapple/Documents/workspace-sts-3.6.3.SR1/UploadClient/libs/httpcore-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/badrionapple/Documents/workspace-sts-3.6.3.SR1/UploadClient/libs/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/badrionapple/Documents/workspace-sts-3.6.3.SR1/UploadClient/libs/httpmime-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/badrionapple/Documents/workspace-sts-3.6.3.SR1/UploadClient/libs/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="/Users/badrionapple/Documents/workspace-sts-3.6.3.SR1/UploadClient/libs/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="/Users/badrionapple/Documents/workspace-sts-3.6.3.SR1/UploadClient/libs/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="/Users/badrionapple/Documents/workspace-sts-3.6.3.SR1/UploadClient/libs/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
